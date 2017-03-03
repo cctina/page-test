@@ -1,8 +1,3 @@
----
-title: Tina's 'page-test'
-layout: post
----
-
 # Welcome to GitHub Page
 
 ## 提供你建立美觀網站所需的一切
