@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+# Welcome to GitHub Page
 
-You can use the [editor on GitHub](https://github.com/cctina/page-test/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## 提供你建立美觀網站所需的一切
+伴隨你一同成長的強大工具與功能
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 易於使用
+xxx 讓你能夠建立美觀且震撼的網站或網誌。
 
-### Markdown
+### 你的專屬網域名稱
+我們將建立並設置你的自訂網域，以便你立即開始使用。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 適合進行 SEO
+xxx 已針對 SEO 進行最佳化，讓你的網站在 Google、Bing、Yahoo 及其他搜尋器的搜尋結果中享有高排名。
 
-```markdown
-Syntax highlighted code block
+### 最完善的支援服務
+我們的幸福工程師 (Happiness Engineer) 透過即時聊天、電子郵件、支援頁面及論壇日以繼夜地作業，為你解決遇到的任何問題。
 
-# Header 1
-## Header 2
-### Header 3
+### 進階方案
+我們的進階版方案提供額外的自訂選項，給你更多控制權。xxx 不但依舊簡單好用，還加入了更多功能及可能性。
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cctina/page-test/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### 數百萬名使用者
+我們每天迎接 50,000 個新網站。從小型企業網站、藝術家的個人作品集、網誌，到例如 TIME 和 CNN 等大型媒體組織，
